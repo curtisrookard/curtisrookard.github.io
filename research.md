@@ -16,7 +16,7 @@ My research focuses on intelligent and resilient approaches to cybersecurity, pa
 - Sequential and recurrent models for cyber-threat detection
 - Network resilience and complex systems
 
-## Selected open-source project
+## Selected open-source projects (with more to come!)
 
 ### RRIoT
 
@@ -26,8 +26,4 @@ My research focuses on intelligent and resilient approaches to cybersecurity, pa
 
 ## Publications and presentations
 
-Add publication entries here as your list grows. A simple format works well:
-
-> **Paper Title**  
-> Author list. *Journal or Conference*, Year.  
-> [Paper] · [Code] · [Slides]
+[View my publications](https://scholar.google.com/citations?user=1s7eyyUAAAAJ&hl=en)
