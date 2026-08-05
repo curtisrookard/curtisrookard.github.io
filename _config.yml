@@ -1,0 +1,61 @@
+# Load Alembic without copying the theme's source files into this repository.
+remote_theme: daviddarnes/alembic@main
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-mentions
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-redirect-from
+  - jekyll-feed
+  - jekyll-commonmark
+  - jekyll-include-cache
+  - jemoji
+  - jekyll-remote-theme
+
+# Core site information
+lang: en-US
+title: "Curtis Rookard"
+description: "Cybersecurity, artificial intelligence, systems engineering, and education."
+url: "https://curtisrookard.github.io"
+baseurl: ""
+repo: "https://github.com/curtisrookard/curtisrookard.github.io"
+logo: "https://github.com/curtisrookard.png?size=200"
+permalink: pretty
+timezone: America/New_York
+service_worker: false
+
+# Keep repository-only files off the published website.
+exclude:
+  - README.md
+  - ALEMBIC-SETUP.txt
+  - Gemfile
+  - Gemfile.lock
+
+# Top navigation
+navigation_header:
+  - title: Home
+    url: /
+  - title: About
+    url: /about/
+  - title: Research
+    url: /research/
+  - title: Teaching
+    url: /teaching/
+  - title: GitHub
+    url: "https://github.com/curtisrookard"
+
+# Footer navigation
+navigation_footer:
+  - title: GitHub
+    url: "https://github.com/curtisrookard"
+  - title: Back to top
+    url: "#top"
+
+# Default page layouts
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: page
