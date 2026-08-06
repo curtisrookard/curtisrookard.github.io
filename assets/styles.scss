@@ -1,0 +1,21 @@
+---
+title: false
+styles: true
+---
+
+$bodytype: (
+  font-family: '"Inter", Arial, sans-serif',
+  regular: 400,
+  bold: 700,
+  italic: italic,
+  cap-height: 0.75
+);
+
+$headingtype: (
+  font-family: '"Inter", Arial, sans-serif',
+  regular: 500,
+  bold: 700,
+  cap-height: 0.75
+);
+
+@import "alembic";
