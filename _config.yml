@@ -52,14 +52,6 @@ navigation_footer:
   - title: Back to top
     url: "#top"
 
-# Default page layouts
-defaults:
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: page
-
 # Fonts
 fonts:
   preconnect_urls:
@@ -67,3 +59,11 @@ fonts:
 
   font_urls:
     - https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap
+
+# Default page layouts
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: page
