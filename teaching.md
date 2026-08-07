@@ -12,7 +12,7 @@ My teaching interests include cybersecurity, information technology, computer sy
 - Information technology foundations
 - Python programming
 - Networking and systems administration
-- Machine-learning fundamentals
+- Machine learning fundamentals
 - Security certification preparation
 
 ## Teaching philosophy
