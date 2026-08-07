@@ -2,11 +2,11 @@
 title: Home
 feature_text: |
   ## Curtis Rookard
-  Cybersecurity • Artificial Intelligence • Systems Engineering • Education
+  Machine Learning • Cybersecurity • Information Technology • Education
 aside: true
 ---
 
-Welcome! I am a cybersecurity and machine-learning researcher and educator whose work focuses on intelligent cyber defense, network security, and resilient computing systems.
+Welcome! I am a cybersecurity and machine learning researcher and educator whose work focuses on intelligent cyber defense, network security, and resilient computing systems.
 
 {% include button.html text="View my research" link="/research/" %}
 {% include button.html text="Explore my GitHub" icon="github" link="https://github.com/curtisrookard" color="#24292e" %}
