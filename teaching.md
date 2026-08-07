@@ -17,4 +17,4 @@ My teaching interests include cybersecurity, information technology, computer sy
 
 ## Teaching philosophy
 
-I aim to connect technical concepts to realistic problems, emphasize hands-on practice, and help students understand both how systems work and how they fail.
+I aim to connect technical concepts to realistic problems, emphasize hands-on practice, and help students understand how complex systems work and how they are incorporated into our daily lives.
