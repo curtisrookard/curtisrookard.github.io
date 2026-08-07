@@ -67,3 +67,10 @@ defaults:
       type: pages
     values:
       layout: page
+
+# Favicons
+favicons:
+  16: "https://github.com/curtisrookard.png?size=16"
+  32: "https://github.com/curtisrookard.png?size=32"
+  180: "https://github.com/curtisrookard.png?size=180"
+  512: "https://github.com/curtisrookard.png?size=512"
