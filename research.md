@@ -1,6 +1,6 @@
 ---
 title: Research
-aside: true
+aside: false
 ---
 
 ## Research interests
