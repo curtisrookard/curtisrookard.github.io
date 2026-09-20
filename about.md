@@ -3,7 +3,7 @@ title: About
 aside: false
 ---
 
-## About
+## Professional Bio
 
 My work sits at the intersection of machine learning, cybersecurity, and information technology. I am especially interested in methods that make cyber-defense systems more adaptive, robust, and useful in operational settings.
 
@@ -32,9 +32,9 @@ Thomas Edison State University
 
 ## Certifications & Licenses
 
-CompTIA Cybersecurity Pathway (CySA+ | PenTest+ | SecurityX/CASP+) 
+CompTIA Cybersecurity Pathway (CySA+, PenTest+, SecurityX/CASP+) 
 
-CompTIA Core & Infrastructure (A+ | Linux+| Network+ | Security+ ) 
+CompTIA Core & Infrastructure (A+, Linux+, Network+, Security+) 
 
 Cisco Certified Network Associate 
 
