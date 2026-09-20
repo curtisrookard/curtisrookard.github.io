@@ -33,6 +33,9 @@ Thomas Edison State University
 ## Certifications & Licenses
 
 CompTIA Cybersecurity Pathway (CySA+ | PenTest+ | SecurityX/CASP+) 
+
 CompTIA Core & Infrastructure (A+ | Linux+| Network+ | Security+ ) 
+
 Cisco Certified Network Associate 
+
 AWS Certified Cloud Practitioner
