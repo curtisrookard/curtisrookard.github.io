@@ -1,6 +1,6 @@
 ---
 title: About
-aside: true
+aside: false
 ---
 
 ## About
