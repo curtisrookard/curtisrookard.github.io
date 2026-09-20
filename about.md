@@ -3,7 +3,7 @@ title: About
 aside: false
 ---
 
-## Professional Bio
+## Interests 
 
 My work sits at the intersection of machine learning, cybersecurity, and information technology. I am especially interested in methods that make cyber-defense systems more adaptive, robust, and useful in operational settings.
 
@@ -18,17 +18,13 @@ My technical interests include:
 
 ## Education
 
-Ph.D., Industrial & Systems Engineering
-University of Tennessee, Knoxville
+Ph.D., Industrial Engineering, University of Tennessee, Knoxville
 
-M.S., Industrial & Systems Engineering
-University of Tennessee, Knoxville
+M.S., Industrial Engineering, University of Tennessee, Knoxville
 
-Professional Science M.S., Biostatistics
-Middle Tennessee State University
+M.S., Biostatistics, Middle Tennessee State University
 
-B.A., Mathematics
-Thomas Edison State University
+B.A., Mathematics, Thomas Edison State University
 
 ## Certifications & Licenses
 
