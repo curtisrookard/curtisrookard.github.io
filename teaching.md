@@ -3,8 +3,6 @@ title: Teaching
 aside: true
 ---
 
-My teaching interests include cybersecurity, information technology, computer systems, programming, networking, and applied machine learning.
-
 ## Subject areas
 
 - Cybersecurity fundamentals and network defense
