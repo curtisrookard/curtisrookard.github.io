@@ -5,7 +5,7 @@ aside: false
 
 ## About
 
-My work sits at the intersection of machine learning, cybersecurity, information technology, and education. I am especially interested in methods that make cyber-defense systems more adaptive, robust, and useful in operational settings.
+My work sits at the intersection of machine learning, cybersecurity, and information technology. I am especially interested in methods that make cyber-defense systems more adaptive, robust, and useful in operational settings.
 
 My technical interests include:
 
