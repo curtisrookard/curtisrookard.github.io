@@ -5,10 +5,10 @@ aside: false
 
 ## Subject areas
 
-- Cybersecurity fundamentals and network defense
+- Cybersecurity principles and network defense
 - Computer operations and operating systems
 - Information technology foundations
-- Python programming
+- Python programming fundamentals
 - Networking and systems administration
 - Machine learning fundamentals
 - Security certification preparation
