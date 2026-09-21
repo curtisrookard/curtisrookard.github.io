@@ -2,7 +2,7 @@
 title: Home
 feature_text: |
   ## Curtis Rookard
-  Machine Learning • Cybersecurity • Information Technology 
+  Machine Learning • Data Science • Cybersecurity
 aside: false
 ---
 
