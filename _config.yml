@@ -16,7 +16,7 @@ plugins:
 # Core site information
 lang: en-US
 title: "Curtis Rookard"
-description: "Machine Learning, Cybersecurity, Information Technology, and Education."
+description: "Machine Learning, Cybersecurity, Data Science."
 url: "https://curtisrookard.github.io"
 baseurl: ""
 repo: "https://github.com/curtisrookard/curtisrookard.github.io"
