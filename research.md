@@ -22,7 +22,11 @@ My research focuses on intelligent and resilient approaches to cybersecurity, pa
 
 **Recurrent Reinforcement Learning for Cyber Threat Detection on IoT Devices**
 
-{% include button.html text="View RRIoT on GitHub" icon="github" link="https://github.com/curtisrookard/RRIoT" color="#24292e" %}
+{% include button.html text="View the repo on GitHub" icon="github" link="https://github.com/curtisrookard/RRIoT" color="#24292e" %}
+
+**Adversarial Asymmetric Agents for Network Intrusion Detection using Deep Reinforcement Learning**
+
+{% include button.html text="View the repo on GitHub" icon="github" link="https://github.com/curtisrookard/Adversarial_Asymmetric_Agents_for_NIDS" %}
 
 ## Publications and presentations
 
