@@ -18,8 +18,6 @@ My research focuses on intelligent and resilient approaches to cybersecurity, pa
 
 ## Selected open-source projects (with more to come!)
 
-### RRIoT
-
 **Recurrent Reinforcement Learning for Cyber Threat Detection on IoT Devices**
 
 {% include button.html text="View the repo on GitHub" icon="github" link="https://github.com/curtisrookard/RRIoT" color="#24292e" %}
