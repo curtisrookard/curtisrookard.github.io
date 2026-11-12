@@ -24,8 +24,14 @@ Experience connecting technical work, education, communication, and public servi
 
 ## Featured project
 
+**Adversarial Asymmetric Agents for Network Intrusion Detection using Deep Reinforcement Learning**
+
+A research repository exploring the changes in performance in intrusion detection performance given different adversarial reinforcement learning agents.
+
+{% include button.html text="Open the repository" icon="github" link="https://github.com/curtisrookard/Adversarial_Asymmetric_Agents_for_NIDS" %}
+
 **RRIoT: Recurrent Reinforcement Learning for Cyber Threat Detection on IoT Devices**
 
-A research repository exploring recurrent reinforcement-learning methods for cyber-threat detection in Internet of Things environments.
+A research repository exploring recurrent reinforcement-learning methods for cyber-threat detection in Internet-of-Things environments.
 
-{% include button.html text="Open the RRIoT repository" icon="github" link="https://github.com/curtisrookard/RRIoT" %}
+{% include button.html text="Open the repository" icon="github" link="https://github.com/curtisrookard/RRIoT" %}
