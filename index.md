@@ -32,6 +32,6 @@ A research repository exploring the changes in performance in intrusion detectio
 
 **RRIoT: Recurrent Reinforcement Learning for Cyber Threat Detection on IoT Devices**
 
-A research repository exploring recurrent reinforcement-learning methods for cyber-threat detection in Internet-of-Things environments. Published in *Computers \& Security*. 
+A research repository exploring recurrent reinforcement-learning methods for cyber-threat detection in Internet-of-Things environments. Published in *Computers & Security*. 
 
 {% include button.html text="Open the repository" icon="github" link="https://github.com/curtisrookard/RRIoT" %}
