@@ -22,7 +22,7 @@ Coursework and instruction spanning cybersecurity, information technology, opera
 ### Applied leadership
 Experience connecting technical work, education, communication, and public service.
 
-## Featured project
+## Featured projects
 
 **Adversarial Asymmetric Agents for Network Intrusion Detection using Deep Reinforcement Learning**
 
